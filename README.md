@@ -1,1 +1,1 @@
-# ios_onetimeca_sdk
+# Chứa các bản Framework Release
