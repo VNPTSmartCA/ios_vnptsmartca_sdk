@@ -114,7 +114,3 @@ VNPT SmartCA Development Team
 ## Bản quyền ©
 
 [Copyright (c) 2021 VNPTSmartCA](https://github.com/VNPTSmartCA/ios-onetimeca-sdk-example/blob/master/LICENSE).
-
-## Liên hệ - Hỗ trợ
-
-email: hoangdinhoi@vnpt.vn
