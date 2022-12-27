@@ -1,4 +1,4 @@
-## Chi tiết hướng dẫn xem tại đây
+## Chi tiết hướng dẫn xem [tại đây](https://smartca.vnpt.vn/help/docs/sdks/sdk/intro)
 
 ## Tác giả
 
